@@ -28,6 +28,17 @@
   color: #61dafb;
 }
 
+
+.card{margin-bottom: 10px;}
+.search-wrapper {margin: 20px;}
+.search-wrapper input {
+    border: 1px solid #ccc;
+    padding: 8px 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+    width: 500px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
